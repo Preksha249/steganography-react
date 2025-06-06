@@ -1,16 +1,16 @@
-# 🕵️‍♂️ React Steganography App
+# React Steganography App
 
 A modern React application for hiding and extracting secret messages within images using the **Least Significant Bit (LSB)** steganography technique.
 
 ---
 
-## 🧠 What is Steganography?
+## What is Steganography?
 
 > Steganography is the practice of concealing secret data within an ordinary, non-secret file or message to avoid detection. Unlike encryption, steganography hides the **existence** of the information itself.
 
 ---
 
-## ✨ Features
+## Features
 
 - 🔐 **Encode**: Hide secret text messages in images
 - 🔓 **Decode**: Extract hidden messages from encoded images
@@ -20,16 +20,16 @@ A modern React application for hiding and extracting secret messages within imag
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
-### 🔧 Encoding Process:
+### Encoding Process:
 1. User uploads a `.png` image
 2. Enters a secret message
 3. The message is converted to binary
 4. LSB of each RGB pixel is replaced with bits of the message
 5. Encoded image is shown and available for download
 
-### 🧵 Decoding Process:
+### Decoding Process:
 1. User uploads an encoded image
 2. LSBs from RGB pixels are read
 3. Bits are converted back to characters
@@ -37,7 +37,7 @@ A modern React application for hiding and extracting secret messages within imag
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React** `v19.1.0`
 - **React Router** `v7.6.1`
@@ -47,7 +47,7 @@ A modern React application for hiding and extracting secret messages within imag
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```plaintext
 /src
