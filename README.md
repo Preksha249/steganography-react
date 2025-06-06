@@ -12,11 +12,11 @@ A modern React application for hiding and extracting secret messages within imag
 
 ## Features
 
-- 🔐 **Encode**: Hide secret text messages in images
-- 🔓 **Decode**: Extract hidden messages from encoded images
-- 🖼️ **Image Processing**: Utilizes HTML5 Canvas API for pixel manipulation
-- 💾 **Download Support**: Save the encoded images to your device
-- 🧭 **User-Friendly Interface**: Smooth and intuitive design using React
+- **Encode**: Hide secret text messages in images
+- **Decode**: Extract hidden messages from encoded images
+- **Image Processing**: Utilizes HTML5 Canvas API for pixel manipulation
+- **Download Support**: Save the encoded images to your device
+- **User-Friendly Interface**: Smooth and intuitive design using React
 
 ---
 
