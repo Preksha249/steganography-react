@@ -1,6 +1,7 @@
 # React Steganography App
 
 A modern React application for hiding and extracting secret messages within images using the **Least Significant Bit (LSB)** steganography technique.
+
 https://steganography-react.vercel.app/
 ---
 
